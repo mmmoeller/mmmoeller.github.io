@@ -5,7 +5,7 @@ date:   2020-06-11 18:15:05 +0000
 image: /assets/images/startup.jpg
 
 ---
-**BIOGRAPHICALLY
+**BIOGRAPHICALLY**
 
 I moved to flip the page when I stopped, eyes on the red ad in front of me. It was for Special K red berries cereal. As AP Lang taught me earlier that day, I trained my gaze on each element. Each detail, color, font, and image placement had a purpose and was a conscious symbolic decision. I knew from psychology that red is meant to induce hunger. The connections I made in that moment exponentially increased my appreciation for marketing, and I learned that my skills could be useful to change how we perceive textual arguments.
 
@@ -13,7 +13,7 @@ Freshman year of college, I was a Professional Writing major, aiming to follow t
 
 Why neuroscience? Biological psychology is fascinating and there is so much yet to be discovered. And the introductory course was at once rigorous, relatable, and intensely entertaining. Entering this major, I aspired to enter into research to lessen the detrimental effects of dementia. I soon gained experience studying stress and mood disorders, sparking a life-long interest. I also had the opportunity to participate in a year-long behavioral neuroscience lab to inform our understanding of Dopamine's impact on cognitive abilities. The principal investigator intends to replicate my team's work with a larger sample to clarify an interaction we saw in males.
 
-**MUSICALLY
+**MUSICALLY**
 
 After I tried the clarinet and oboe, the music teacher handed me a flute. I could not make a sound. She told me I was a flute; whether for numbers or because of my proportionally-long arms, I do not know. I am thankful for that decision bringing me into the band community, where I made lifelong friendships bonding over "dance elements" which included lying on the parking lot in July.
 
@@ -21,7 +21,7 @@ Going to a university out of state, I decided to join the marching band. Through
 
 Music is still a part of me now that I am not in an ensemble. It never ceases to brighten the mood of the house. Silence is overrated when you could instead listen to feel-good music and boost your endorphins.
 
-**Lawful Good Approach
+**Lawful Good Approach**
 
 Noted pragmatist, I asked for *Dreyer's English* for my 21st birthday.
 
