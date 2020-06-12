@@ -50,6 +50,7 @@ In addition to my communications background, I have had the experience of formul
 
 ---
 **Writing Work**
+
 *Writing Associate*, HCWE
 January-May 2020
 
