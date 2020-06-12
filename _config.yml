@@ -11,9 +11,9 @@ display_footer: none  #change this to 'none' if you want to hide the footer copy
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: HHC Website
+project_one_description: Spring 2020 Professional Writing majors worked together in Dr. McKee's capstone to create a brochure and website for the Historic Hopewell Church, located in College Corner, OH. Specific contributions were for the history team and webpages 1916-1961, 1962-Present.
+project_one_url: http://historichopewellchurch.org
 project_one_icon: location_on
 
 project_two: Second Project
