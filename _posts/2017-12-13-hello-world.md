@@ -40,6 +40,7 @@ I am a triple major college graduate. My closest friends share a mutual interest
 
 ---
 **Projects**
+
 *Professional Writing*
 
 Whether working on academic, extracurricular, or professional projects, I apply proven writing, critical thinking, and research skills. Experience in my professional courses has given me tools in Adobe InDesign, Illustrator, and Photoshop, and in my final semester I worked with HTML and CSS to produce an ebook version of The Scarlet Letter. I also have experience writing grant proposals both for research endeavors and to secure funding for projects. Some of the most enduring work I’ve contributed to includes marketing materials for Louie’s Legacy Animal Rescue and an informational brochure and <a href="http://www.historichopewellchurch.org/">website</a> for the Historic Hopewell Church.
