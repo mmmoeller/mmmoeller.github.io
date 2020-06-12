@@ -41,16 +41,22 @@ I am a triple major college graduate. My closest friends share a mutual interest
 ---
 **Projects**
 *Professional Writing*
+
 Whether working on academic, extracurricular, or professional projects, I apply proven writing, critical thinking, and research skills. Experience in my professional courses has given me tools in Adobe InDesign, Illustrator, and Photoshop, and in my final semester I worked with HTML and CSS to produce an ebook version of The Scarlet Letter. I also have experience writing grant proposals both for research endeavors and to secure funding for projects. Some of the most enduring work I’ve contributed to includes marketing materials for Louie’s Legacy Animal Rescue and an informational brochure and <a href="http://www.historichopewellchurch.org/">website</a> for the Historic Hopewell Church.
+
 *Biopsychology*
+
 In addition to my communications background, I have had the experience of formulating research in biology, neuroscience, and psychology courses. As a researcher in the BURP-BN program, I have been through the detailed process of developing a proposal and protocol, as well as running the experiment and creating poster presentations. I also have experience writing research grant proposals and APA-formatted research papers, which I have additional experience reviewing for Miami’s social science publication COMPASS.
 
 ---
 **Writing Work**
 *Writing Associate*, HCWE
 January-May 2020
+
 Consulted for Economic Development course (ECO 347) of 30 students over series of 5 memos and final report. Analyzed drafts and presented feedback aligned with professor’s expectations. See more at the <a href="https://www.miamioh.edu/hcwe/index.html">Howe Writing Center website</a>.
+
 *Writing Consultant*, HCWE
 October 2018-May 2020
+
 Collaborated with undergraduates, graduate students, and faculty of various academic disciplines and language backgrounds. Assessed written works and addressed writing problems, formulating efficient plans tailored to the clients' needs. Conducted asynchronous appointments for 2 months during remote work.
 
