@@ -1,9 +1,10 @@
---
+---
 layout: post
-title: "Resume!"
-date: 2020-06-11 20:44:00 +0000
+title:  "Resume!"
+date:   2020-06-11 20:15:05 +0000
 image: /assets/images/startup.jpg
 
+---
 # Madilyn Moeller
 ## EDUCATION <br />
 **Miami University, OXFORD, OH. COLLEGE OF ARTS AND SCIENCE** <br />
