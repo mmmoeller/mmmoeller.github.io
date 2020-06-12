@@ -30,6 +30,7 @@ I worked as a writing consultant for two years. We reviewed written works from a
 **Personally**
 
 Myers-Briggs classifies me as ISFJ. I care deeply, pouring my heart into purposeful work. Always thought of myself as a combination of Ravenclaw and Slytherin. However, my Hufflepuff friend declares themself Slytherin, so I believe we judge ourselves as we would like to be seen, not as we are. I prefer to think of myself as lawful good.
+
 What informs my personality?
 Without a doubt, my college experience has molded me into the person I am today. I became an advocate of teamwork, a dependable communicator, a loyal friend and family member. My band sorority provided service for the band, which was exactly the community of multi-faceted people I was honored to know. My role models became my friends and family members.
 
