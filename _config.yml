@@ -16,9 +16,9 @@ project_one_description: Spring 2020 Professional Writing majors worked together
 project_one_url: http://historichopewellchurch.org
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: Scarlet Letter ebook
+project_two_description: In a small team, Madilyn added HTML5, CSS, semantic content, and compiled the book for Project Gutenberg as an assignment for Dr. Lockridge's digital publishing class. All work was done remotely.
+project_two_url: https://github.com/timlockridge/digpub-the-scarlet-letter
 project_two_icon: photo_camera
 
 
