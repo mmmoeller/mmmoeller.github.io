@@ -29,6 +29,19 @@ image: /assets/images/startup2.jpg
 - Created spreadsheets to track and assign house maintenance, assigning and performing cleaning for 14 rooms <br />
 - Transitioned registration protocols for new Family Room space in Dayton Children’s Hospital <br />
 
+### PUBLISHING EXPERIENCE <br />
+**Oxford Observer, JRN316 Digital Editing**	(JAN.-MAY 2020) <br />
+-	Copyedited and fact-checked articles and briefs, then published to oxfordobserver.org <br / >
+-	Wrote headlines and synopses by spec, arranged tabloids using InDesign <br />
+
+**Historic Hopewell Church, ENG415 Professional Writing Capstone** (JAN.-MAY 2020) <br />
+-	Researched, paraphrased, and copyedited 100 years of history for historichopewellchurch.org <br />
+-	Performed UX testing and modified visual design to produce updated website and brochure <br />
+
+**Ebook: The Scarlet Letter, ENG426 Digital Publishing** (JAN.-MAY 2020) <br />
+-	Transformed raw text using HTML5, CSS, Epub, and Z3998 <br />
+-	Published ebook using Sigil after testing on Kindle, iBooks, and other platforms <br />
+
 ### RESEARCH EXPERIENCE <br />
 **COMPASS (Compilation of Miami Publications Advancing the Social Sciences)** (AUG. 2019-MAY 2020) <br />
 - Review research manuscripts for publication, evaluating statistics, content, and suitability <br />
@@ -53,4 +66,4 @@ image: /assets/images/startup2.jpg
 - Recruited musical acts, designed promotional materials, appointed committees, delegated tasks, ran logistics <br />
 
 ### SKILLS <br />
-Experience Grant writing; Adobe InDesign (Intermediate), Illustrator (Basic), Photoshop (Basic); HTML5 (Intermediate) <br />
+Experience Grant writing; Adobe InDesign (Intermediate), Illustrator (Basic), Photoshop (Basic); HTML5 (Intermediate); CSS (Intermediate)
