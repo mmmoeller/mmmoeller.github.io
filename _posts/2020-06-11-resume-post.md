@@ -9,25 +9,23 @@ image: /assets/images/startup2.jpg
 
 #### EDUCATION <br />
 **Miami University, OXFORD, OH. COLLEGE OF ARTS AND SCIENCE** <br />
-- Bachelor of Arts in Professional Writing EXPECTED MAY 2020 <br />
-- Bachelor of Arts in Psychology, Neuroscience Co-Major EXPECTED MAY 2020 <br />
-- Honors: Phi Beta Kappa, Cum Laude, University Honors Program, Humanities Scholar, Redhawk Eminence Scholar, Dean’s List 2016-2019, GPA 3.84/4.0. <br />
+- Bachelor of Arts in Psychology, Professional Writing, Neuroscience MAY 2020 <br />
+- Honors: Phi Beta Kappa, Magna Cum Laude, University Honors, Humanities Scholar, Redhawk Eminence Scholar, Dean’s List 7 semesters, GPA 3.85/4.0. <br />
 
 #### WORK EXPERIENCE <br />
 **Writing Associate, HOWE CENTER FOR WRITING EXCELLENCE** (JAN.-MAY 2020) <br />
-- Consult for Economics course (ECO 347) of 30 students over series of 5 memos and final report <br />
-- Analyze drafts and presented feedback aligned with professor’s expectations <br />
+-	Advised 30 students in ECO347 Economic Development over series of 5 memos and final report <br />
+-	Analyzed drafts and presented feedback aligned with professor’s expectations and APA style <br />
 
 **Writing Consultant, HOWE CENTER FOR WRITING EXCELLENCE** (OCT. 2018-May 2020) <br />
-- Collaborate with undergraduate and graduate students of various age, background, and academic discipline <br />
-- Prioritize writing problems quickly and formulated efficient plans tailored to client’s needs <br />
-- Consult for over 145 appointments by assessing written works, presentations, and websites <br />
-- Conduct asynchronous online consultations for two months during remote learning <br />
+- Consulted for over 135 undergraduates, graduate students, and faculty of various academic disciplines <br />
+-	Assessed reports, presentations, websites, resumes, cover letters, personal statements, etc. <br />
+-	Conducted online consultations for two months using Word and track changes <br />
 
 **Operations Intern, RONALD MCDONALD HOUSE CHARITIES OF DAYTON** (MAY-AUG. 2018) <br />
-- Initiated campaign to collect feedback from guests after departure, implementing feedback <br />
-- Created spreadsheets to track and assign house maintenance, assigning and performing cleaning for 14 rooms <br />
-- Transitioned registration protocols for new Family Room space in Dayton Children’s Hospital <br />
+-	Initiated campaign to collect feedback from guests after departure and called guests to implement strategy <br />
+-	Tracked and assigned house maintenance for 14 guest rooms and facility <br />
+-	Identified necessary protocol changes for new Family Room space in Dayton Children’s Hospital <br />
 
 #### PUBLISHING EXPERIENCE <br />
 **Oxford Observer, JRN316 Digital Editing**	(JAN.-MAY 2020) <br />
@@ -44,14 +42,14 @@ image: /assets/images/startup2.jpg
 
 #### RESEARCH EXPERIENCE <br />
 **COMPASS (Compilation of Miami Publications Advancing the Social Sciences)** (AUG. 2019-MAY 2020) <br />
-- Review research manuscripts for publication, evaluating statistics, content, and suitability <br />
-- Identify and propose areas for improvement according to APA style practices <br />
-- Compile reviews to write editor letters with publication decision and suggested revisions <br />
+-	Evaluated prospective manuscripts based on statistics, content, and novelty <br />
+-	Proposed areas for improvement according to APA style <br />
+-	Compiled reviews to write editor letters with publication decision <br />
 
 **BURP-BN (Broadening Undergraduate Research Participation - Behavioral Neuroscience)** (AUG. 2019-May 2020) <br />
-- Collaborated with two researchers to assess relearning ability of mice lacking Dopamine transporters <br />
-- Proposed research after review of prior literature, performed study, analyzed data and presented results <br />
-- Earned $1000 Undergraduate Research Award for excellence in field <br />
+-	Collaborated with two researchers to assess relearning ability of mice lacking Dopamine transporters <br />
+-	Proposed research after review of prior literature, performed study, analyzed data and presented results <br />
+-	Earned $1000 Undergraduate Research Award for study design <br />
 
 #### LEADERSHIP <br />
 **Secretary, TAU BETA SIGMA, DELTA EPSILON** (DEC. 2018-DEC. 2019) <br />
