@@ -144,7 +144,7 @@ skills:
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: Github
+project_button: Explore
 
 github: https://github.com/mmmoeller
 upwork: https://upwork.com
