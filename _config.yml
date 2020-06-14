@@ -36,7 +36,12 @@ project_four_icon: restaurant
 project_five: Neurology & Language
 project_five_description: In linguistics, Madilyn chose to study the junction between her focus areas. The perisylvian region.
 project_five_url: https://drive.google.com/file/d/1YQMrCtN5sdOoiwwUBgoZtJFVlhTvGeJI/view?usp=sharing
-project_five_icon: coffee-unsplash
+project_five_icon: location_on
+
+project_six: Research Poster
+project_six_description: In the behavioral neuroscience labs, Madilyn completed a study on mice with two partners. These is the results.
+project_six_url: https://drive.google.com/file/d/1v3jRJIRoipZwsIqHBNRyB0wCaV-GtLst/view?usp=sharing
+project_six_icon: photo_camera
 
 portfolio_heading: Portfolio
 portfolio_type: cards
