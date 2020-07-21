@@ -13,6 +13,10 @@ image: /assets/images/startup2.jpg
 - Honors: Phi Beta Kappa, Magna Cum Laude, University Honors, Humanities Scholar, Redhawk Eminence Scholar, Dean’s List 7 semesters, GPA 3.85/4.0. <br />
 
 #### WORK EXPERIENCE <br />
+**Research and Technical Writing Contractor, LIAISON, INC.** (JUNE-JULY 2020) <br />
+-	Advised 30 students in ECO347 Economic Development over series of 5 memos and final report <br />
+-	Analyzed drafts and presented feedback aligned with professor’s expectations and APA style <br />
+
 **Writing Associate, HOWE CENTER FOR WRITING EXCELLENCE** (JAN.-MAY 2020) <br />
 -	Advised 30 students in ECO347 Economic Development over series of 5 memos and final report <br />
 -	Analyzed drafts and presented feedback aligned with professor’s expectations and APA style <br />
