@@ -5,7 +5,7 @@ date:   2020-08-02 10:50:05 +0000
 image: /assets/images/startup2.jpg
 
 ---
-**1.1. Is Medicare free at age 65? 
+**1.1. Is Medicare free at age 65?** 
 
 The cost for Medicare varies depending on the years spent paying Medicare taxes or using Social Security, coverage type, and enrollment timeliness. If you qualify for premium-free Part A, you have only the monthly premium for Part B as well as the deductibles for each plan. 
  
