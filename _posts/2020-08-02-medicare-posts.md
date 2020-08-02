@@ -5,7 +5,9 @@ date:   2020-08-02 10:50:05 +0000
 image: /assets/images/startup2.jpg
 
 ---
-1.1. Is Medicare free at age 65? The cost for Medicare varies depending on the years spent paying Medicare taxes or using Social Security, coverage type, and enrollment timeliness. If you qualify for premium-free Part A, you have only the monthly premium for Part B as well as the deductibles for each plan. 
+**1.1. Is Medicare free at age 65? 
+
+The cost for Medicare varies depending on the years spent paying Medicare taxes or using Social Security, coverage type, and enrollment timeliness. If you qualify for premium-free Part A, you have only the monthly premium for Part B as well as the deductibles for each plan. 
  
 Original Medicare is open to people 65 and older, as well as to other people with chronic conditions. Original Medicare includes Part A and Part B, which cover hospital and medical insurance. Parts D is also available, covering prescription drug costs. Part C is offered through Medicare-approved private companies and offers a full package of Parts A, B, and often D with additional dental, hearing, and vision coverage. 
 Premium-free Part A Many people do not pay monthly premiums for Medicare Part A because they or their spouse have paid taxes to Medicare for more than 40 quarters (10 years) while working. If you receive or are eligible for Social Security benefits or retirement benefits from the Railroad Retirement Board, or if you had Medicare-covered government employment, you also do not have to pay Part A premiums. 
