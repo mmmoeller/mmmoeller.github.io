@@ -2,7 +2,7 @@
 layout: post
 title:  "Medicare Blogs"
 date:   2020-08-02 10:50:05 +0000
-image: /assets/images/startup2.jpg
+image: /assets/images/stethoscope.jpg
 
 ---
 **1.1. Is Medicare free at age 65?** 
